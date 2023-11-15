@@ -1,0 +1,11 @@
+{
+  "name": "nodeMark1",
+  "version": "0.0.1",
+  "description": "application for test work",
+  "main": "index.js",
+  "scripts": {
+    "weather": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
